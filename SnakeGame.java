@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.Random;
-//hii bro how are you i am fine thankyou and i am jack, submit data 
+//hii bro how are you i am fine thankyou and i am jack, submit data hgf
 @SuppressWarnings("unused")
 public class SnakeGame extends JPanel implements KeyListener, ActionListener {
 
